@@ -34,7 +34,7 @@
     "jquery": "^3.5.0",
     "jquery-ui": "^1.12.1",
     "slickgrid": "^2.3.21",
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@types/slickgrid": "^2.1.27",
